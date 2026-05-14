@@ -1,0 +1,27 @@
+# Dependencias
+node_modules/
+vendor/
+
+# Archivos de entorno
+.env
+.env.local
+.env.production
+
+# Laravel
+backend/storage/logs/*.log
+backend/bootstrap/cache/*.php
+
+# React / Vite
+frontend/dist/
+frontend/.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Base de datos local
+*.sql
