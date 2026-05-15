@@ -62,3 +62,37 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Enlaces de despliegue
+
+Sistema publicado:
+https://ailsbol-web.vercel.app
+
+Backend API:
+https://ailsbol-web-production.up.railway.app
+
+Prueba de API:
+https://ailsbol-web-production.up.railway.app/api/test
+
+Repositorio:
+https://github.com/diegoreynaldotorrezvaldez/ailsbol-web
+
+## Usuario de prueba
+
+Correo: admin@ailsbol.org  
+Contraseña: admin12345
+
+## Funcionalidades entregadas en el Sprint 1
+
+- Página pública institucional de AILSBOL WEB.
+- Inicio de sesión conectado al backend Laravel.
+- Frontend desplegado en Vercel.
+- Backend desplegado en Railway.
+- Base de datos MySQL conectada en la nube.
+- Roles iniciales del sistema.
+- Panel administrativo.
+- Dashboard con datos reales.
+- Gestión básica de usuarios.
+- Visualización de roles.
+- Registro de usuarios.
+- Activación y desactivación de usuarios.
+- Persistencia básica de sesión.
